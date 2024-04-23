@@ -15,7 +15,7 @@
 
 
 ## My GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grand1nqu1s1tor&show_icons=true&theme=radical)
+![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grand1nqu1s1tor&langs_count=5&theme=tokyonight)
 
 
 

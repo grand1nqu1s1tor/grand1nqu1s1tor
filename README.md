@@ -17,7 +17,7 @@
 ## My GitHub Stats
 ![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grand1nqu1s1tor&langs_count=5&theme=tokyonight)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=grand1nqu1s1tor.grand1nqu1s1tor)
 
 <!--
 **grand1nqu1s1tor/grand1nqu1s1tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
